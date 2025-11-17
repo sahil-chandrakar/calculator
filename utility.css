@@ -1,0 +1,21 @@
+.right-btn{
+    background-color: #FF9500;
+    color: white;
+}
+.right-btn:hover{
+    background-color: #d77e00;
+}
+.top-btn{
+    background-color: #d4d4d273;
+    color: white;
+}
+.top-btn:hover{
+    background-color: #a9a9a973;
+}
+.number-btn{
+    background-color: #4f4f4f;
+    color: white;
+}
+.number-btn:hover{
+    background-color: #2d2d2d;
+}
