@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": "./assests/ts",
+    "outDir": "./dist/ts",
+    "target": "es6",
+    "module": "es2020",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["dom", "es6"],
+    "strict": true
+  },
+  "include": ["assests/ts/**/*"]
+}
